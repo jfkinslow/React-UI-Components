@@ -8,7 +8,7 @@ export default class HeaderContainer extends React.Component {
     return (
       <div className="card-header">
         <ImageThumbnail
-          src="http://3.bp.blogspot.com/_rbeqbj-n1Z0/SQ9j6sjTeXI/AAAAAAAAAJk/o2US22AdaM4/s1600/usertile8.bmp"
+          src="https://tk-assets.lambdaschool.com/1c1b7262-cf23-4a9f-90b6-da0d3c74a5c6_lambdacrest.png"
           alt="Avatar Image"
           className="avatar-image"
         />

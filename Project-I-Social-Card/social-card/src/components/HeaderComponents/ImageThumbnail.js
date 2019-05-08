@@ -8,8 +8,6 @@ export default class ImageThumbnail extends React.Component {
   render() {
     return (
       <img
-        width="64"
-        height="64"
         className={this.props.className}
         src={this.props.src}
         alt={this.props.alt}
